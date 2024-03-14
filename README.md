@@ -32,8 +32,8 @@ Monitoring: The script continuously monitors system resources and prints the res
 Telegram Notifications: If any of the resource thresholds are exceeded, the script sends a notification message to the specified Telegram chat.    
 
 ## Example Output
-CPU Usage: 50%, Memory Usage: 60%, Disk Usage: 30%  
-CPU Usage: 75%, Memory Usage: 70%, Disk Usage: 60%  
-Message sent successfully!  
+ `CPU Usage: 50%, Memory Usage: 60%, Disk Usage: 30%`  
+`CPU Usage: 75%, Memory Usage: 70%, Disk Usage: 60%`    
+`Message sent successfully!`  
 
 This readme.md is provided by ai.  
