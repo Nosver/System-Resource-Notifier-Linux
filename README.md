@@ -36,4 +36,3 @@ Telegram Notifications: If any of the resource thresholds are exceeded, the scri
 `CPU Usage: 75%, Memory Usage: 70%, Disk Usage: 60%`    
 `Message sent successfully!`  
 
-This readme.md is provided by ai.  
